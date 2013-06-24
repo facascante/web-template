@@ -1,0 +1,11 @@
+{
+  "name": "company",
+  "description": "Manage Company",
+  "version": "0.1.0",
+  "author": "Chito Cascante",
+  "dependencies": {
+    "jade": "~0.31.2",
+    "express.io": "~1.1.11"
+  },
+  "devDependencies": {}
+}
